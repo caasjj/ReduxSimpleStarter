@@ -1,0 +1,27 @@
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+ svg {
+     height: 150px;
+     width: 250px;
+ }
+
+td:first-of-type, td:first-of-type > div {
+     height: 150px;
+     width: 250px;
+ }
+
+.chart-footer {
+    font-size: 0.75em;
+}
+
+.chart-footer span {
+    margin: 0 5px;
+}
